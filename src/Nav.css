@@ -1,0 +1,32 @@
+.nav{
+
+   position: fixed;
+    top :0;
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    z-index: 1;
+
+    height: 20px;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+
+.nav_black{
+    background-color: #111;
+   
+}
+.n_logo{
+    position: fixed;
+    width:20px;
+    left: 20px;
+    object-fit: contain;
+}
+
+
+/* .avatar{
+    
+    width:30px;
+    
+    object-fit: contain;
+} */
